@@ -1,0 +1,24 @@
+# LangChain Core
+langchain
+langchain-core
+langchain-text-splitters
+
+# NVIDIA NIM Integration
+langchain-nvidia-ai-endpoints
+
+# Vector Database
+langchain-chroma
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# RAG Evaluation
+deepeval
+portalocker[win32]; sys_platform == "win32"
+
+# Testing
+pytest
+
+# Environment Configuration
+python-dotenv
